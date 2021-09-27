@@ -1,1 +1,143 @@
 # actividad_apropiacion
+using System;
+
+namespace aeropuertoMa
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("aerolineaMA");
+
+           /* int numero_paises = 5;
+            string lugares = "argentina, chile, uruguy, ecuador, paraguya";
+            int viajeros_frecuentes = 20000;
+            long costo_tiquetes = 3552000;
+            int capacidad_viones = 380;
+            int numero_empleados = 5369;
+            long sueldo = 2500000;
+
+            System.Console.WriteLine($"paises a los que llega la aerolinea: {numero_paises}");
+            System.Console.WriteLine($"paises mas visitados en sudamerica son: {lugares}");
+            System.Console.WriteLine($"cuenta con una suma importanten de viajeros frecuentes de: {viajeros_frecuentes}");
+            System.Console.WriteLine("todos sus aviones cuentan con una capacidad de: " + (capacidad_viones) + " sillas");
+            System.Console.WriteLine($"sus empleados son aproximadamente: {numero_empleados} y su salrio es: {sueldo}");
+            System.Console.WriteLine($"es una de las aerolineas mas economicas con un costo de: {costo_tiquetes} por persona");
+            
+
+            // la aerolinea para promover sus viajes esta dando un descuento a los menores de edad del 40%
+            // que tengan mas de 10 viajes con la compañia.
+
+            System.Console.WriteLine("cual es tu nombre");
+            string nombre = Console.ReadLine();
+            
+            
+            System.Console.WriteLine("cual es tu edad");
+            int edad = Convert.ToInt32(Console.ReadLine());
+            System.Console.WriteLine("¿cuántas veces has vijado con nosotros?");
+            int viajes = Convert.ToInt32(Console.ReadLine());
+
+
+
+            if(edad <= 18)
+            {
+                Console.WriteLine(" cumples con la edad");
+
+                if(viajes>= 5 )
+                {
+                    System.Console.WriteLine("tienes un descuento del 40%");
+               
+                    System.Console.WriteLine("el costo de tu tiquete es: 2131200");
+                }
+                else
+                {
+                   System.Console.WriteLine( " pero no cumples con la cantidad de viajes necesarios para el descuento");
+                }
+               
+             }
+            else
+            {
+                System.Console.WriteLine("no posees descuentos");
+            }*/
+            
+
+            //la aero linea posee paquetes de viaje entre paises que mejora el precio de sus pasajes
+
+           /* Console.WriteLine("elija el paquete que mas le gusta");
+            System.Console.WriteLine(" paquete 1. argentina y colombia 20% de descuento");
+            System.Console.WriteLine("paquete 2. chile y uruguy 10% de descuento");
+
+            int opcion = Convert.ToInt32(Console.ReadLine());
+
+           
+
+            switch (opcion)
+            {
+                case (1):
+
+                System.Console.WriteLine("el costo de tu paquete pora argentina y colombia es de: 2841600$");
+                break;
+
+                case (2):
+
+                System.Console.WriteLine("el costo de tu viaje por chile y uruguay es: 3196800$");
+                break;
+
+                default:
+                System.Console.WriteLine("no tenemos ese paquete disponible en el momento");
+                break;
+
+                
+            }*/
+
+           
+
+           
+
+
+
+
+                
+
+                
+
+
+
+            
+
+
+
+
+
+
+
+
+
+           
+
+
+             
+             
+                   
+
+
+
+
+                 
+             
+
+
+            
+
+
+
+            
+
+
+
+
+
+
+        }
+    }
+}
